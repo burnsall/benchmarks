@@ -111,3 +111,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Cached Maven runtime classpath (scripts/start-vuu-server.ps1)
+scripts/main-classpath.txt
+
+# Maven build output (server/)
+target/

@@ -1,0 +1,3 @@
+[submodule "vendor/vuu"]
+	path = vendor/vuu
+	url = https://github.com/finos/vuu.git

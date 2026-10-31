@@ -1,0 +1,74 @@
+{
+  "vuu-10000rows": {
+    "grid": "vuu",
+    "rowCount": 10000,
+    "totalUpdates": 100000,
+    "durationMs": 1114,
+    "updatesPerSecond": 89766.60682226211,
+    "capturedAt": "2026-10-28T09:42:15.512Z"
+  },
+  "vuu-100000rows": {
+    "grid": "vuu",
+    "rowCount": 100000,
+    "totalUpdates": 5000,
+    "durationMs": 37,
+    "updatesPerSecond": 135135.13513513515,
+    "capturedAt": "2026-10-28T09:42:18.248Z"
+  },
+  "ag-grid-client-10000rows": {
+    "grid": "ag-grid-client",
+    "rowCount": 10000,
+    "type": "burstResult",
+    "requestId": 1,
+    "totalUpdates": 100000,
+    "durationMs": 502.1533000000054,
+    "updatesPerSecond": 199142.3734544788,
+    "capturedAt": "2026-10-28T09:42:25.096Z"
+  },
+  "ag-grid-client-100000rows": {
+    "grid": "ag-grid-client",
+    "rowCount": 100000,
+    "type": "burstResult",
+    "requestId": 1,
+    "totalUpdates": 5000,
+    "durationMs": 27.457500000018626,
+    "updatesPerSecond": 182099.60848571823,
+    "capturedAt": "2026-10-28T09:42:28.237Z"
+  },
+  "ag-grid-server-10000rows": {
+    "grid": "ag-grid-server",
+    "rowCount": 10000,
+    "type": "burstResult",
+    "requestId": 1,
+    "totalUpdates": 100000,
+    "durationMs": 317.8576999999932,
+    "updatesPerSecond": 314606.19012848247,
+    "capturedAt": "2026-10-28T09:42:30.954Z"
+  },
+  "ag-grid-server-100000rows": {
+    "grid": "ag-grid-server",
+    "rowCount": 100000,
+    "type": "burstResult",
+    "requestId": 1,
+    "totalUpdates": 5000,
+    "durationMs": 30.724600000015926,
+    "updatesPerSecond": 162736.04863846587,
+    "capturedAt": "2026-10-28T09:42:32.300Z"
+  },
+  "ag-grid-vuu-10000rows": {
+    "grid": "ag-grid-vuu",
+    "rowCount": 10000,
+    "totalUpdates": 100000,
+    "durationMs": 1061,
+    "updatesPerSecond": 94250.7068803016,
+    "capturedAt": "2026-10-28T09:42:34.603Z"
+  },
+  "ag-grid-vuu-100000rows": {
+    "grid": "ag-grid-vuu",
+    "rowCount": 100000,
+    "totalUpdates": 5000,
+    "durationMs": 64,
+    "updatesPerSecond": 78125,
+    "capturedAt": "2026-10-28T09:42:37.098Z"
+  }
+}
